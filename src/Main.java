@@ -7,7 +7,10 @@
  * You haven`t change the code if you are not a trainer
  */
 
+import core.controller.Controller;
 import core.model.Model;
+import core.view.EMessage;
+import core.view.View;
 
 
 import java.util.ArrayList;
@@ -35,6 +38,19 @@ public class Main {
 */
 
        /* System.out.println(EMessage.INPUT_ERROR.getMesage());*/
+/*
+
+        View view = new View();
+        view.printMessage(EMessage.INPUT_WORD_HELLO);
+*/
+
+
+    Model model = new Model();
+    View view = new View();
+    Controller controller = new Controller(model, view);
+    controller.processUser();
+
+
 
 
 

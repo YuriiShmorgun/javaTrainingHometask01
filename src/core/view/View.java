@@ -8,35 +8,23 @@
  */
 
 package core.view;
-import core.view.EMessage;
-
 
 /*
  * This is the View class for program
- * It contain`s messages for user
+ * It`s print messages for user
  *
- * @version     0.1     29.06.2018
+ * @version     0.3     29.06.2018
  * @author      Yurii Shmorgun
  */
 public class View {
 
-
-
-    public void go(){
-
-        EMessage.INPUT_ERROR.getMessage();
-    }
-
-    /*messages for user*/
-    public static final String INPUT_WORD_HELLO ="Input word 'Hello'";
-    public static final String INPUT_WORD_WORLD ="Input word 'world!'";
-    public static final String INPUT_ERROR ="Input is incorrect";
-
     /*method for print messages for user*/
-    public void printMessage (String message){
-        System.out.println(message);
+    public void printMessage (EMessage message){
+        System.out.println(message.getMessage());
     }
 
-    /* TODO method for print messages for user*/
-    ///public void printMessage
+    public void printControllerMessage (String srting){
+        System.out.println(srting);
+    }
+
 }

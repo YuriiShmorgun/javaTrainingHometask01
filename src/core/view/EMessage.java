@@ -17,7 +17,7 @@ package core.view;
  * @version     0.2     29.06.2018
  * @author      Yurii Shmorgun
  */
-enum EMessage {
+public enum EMessage {
     INPUT_WORD_HELLO ("Input word 'Hello'"),
     INPUT_WORD_WORLD ("Input word 'world!'"),
     INPUT_ERROR ("Input is incorrect");
