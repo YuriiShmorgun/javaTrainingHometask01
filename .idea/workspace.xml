@@ -782,7 +782,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530259246770</updated>
-      <workItem from="1530259248774" duration="32824000" />
+      <workItem from="1530259248774" duration="32832000" />
     </task>
     <task id="LOCAL-00001" summary="Working with view 0.1">
       <created>1530266310705</created>
@@ -847,11 +847,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530299544301</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="First working programe&#10;(too big controller)">
+      <created>1530299551459</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1530299551459</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32824000" />
+    <option name="totallyTimeSpent" value="32832000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
