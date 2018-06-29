@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cd2560b8-a4c9-444d-8a54-a47c1ff5ae60" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/controller/Controller.java" afterPath="$PROJECT_DIR$/src/core/controller/Controller.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -784,7 +782,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530259246770</updated>
-      <workItem from="1530259248774" duration="32818000" />
+      <workItem from="1530259248774" duration="32824000" />
     </task>
     <task id="LOCAL-00001" summary="Working with view 0.1">
       <created>1530266310705</created>
@@ -842,11 +840,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530296965938</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="First working programe&#10;(too big controller)">
+      <created>1530299544301</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1530299544301</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32818000" />
+    <option name="totallyTimeSpent" value="32824000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
